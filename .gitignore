@@ -1,0 +1,5 @@
+# Default ignore
+.idea/
+
+#Static configurations files
+URLService/common_config/Leggero_Config.xml
