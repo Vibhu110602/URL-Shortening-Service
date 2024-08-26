@@ -1,0 +1,9 @@
+<LEGGERO>
+    <DB>
+        <schema>in_use</schema>
+        <pwd>12345</pwd>
+        <HOST>localhost</HOST>
+        <PORT>5432</PORT>
+        <dbname>URL-Tracking</dbname>
+    </DB>
+</LEGGERO>
